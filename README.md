@@ -3,7 +3,7 @@ This project is about classifying documents into categories using CNNs
 
 ## Demo
 
-[![Demo](video.gif)](https://youtu.be/lUGVvi3ZRrg)
+[![Demo](MyProject_First_Frame.png)](https://youtu.be/lUGVvi3ZRrg)
 
 ##  goals
 
