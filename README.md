@@ -1,7 +1,7 @@
 # document-classification-app
 This project is about classifying documents into categories using CNNs
 
-## Demo
+## Demo: click on the image to watch the Demo :)
 
 [![Demo](MyProject_First_Frame.png)](https://youtu.be/lUGVvi3ZRrg)
 
